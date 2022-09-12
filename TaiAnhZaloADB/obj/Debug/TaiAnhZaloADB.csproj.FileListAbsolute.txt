@@ -1,0 +1,16 @@
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\TaiAnhZaloADB.exe.config
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\TaiAnhZaloADB.exe
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\TaiAnhZaloADB.pdb
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.csproj.AssemblyReference.cache
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.csproj.SuggestedBindingRedirects.cache
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.Properties.Resources.resources
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.csproj.GenerateResource.cache
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.csproj.CoreCompileInputs.cache
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.exe
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.pdb
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.Main.resources
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\KAutoHelper.pdb
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\KAutoHelper.dll.config
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\obj\Debug\TaiAnhZaloADB.csproj.CopyComplete
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\Emgu.CV.World.dll
+F:\PHUONG\TaiAnhZaloADB\TaiAnhZaloADB\bin\Debug\Emgu.CV.World.xml
